@@ -169,7 +169,7 @@ async function sendMessages(client, targetNumber, messageCount) {
         try {
             const stickerBuffer = fs.readFileSync(stickerPath);
             await client.sendMessage(targetNumber + "@s.whatsapp.net", { sticker: stickerBuffer });
-            await delay(10);
+            await delay(49);
         } catch (error) {
             console.error(chalk.red("Error in sendMessages:", error));
         }
