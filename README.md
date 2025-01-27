@@ -26,9 +26,8 @@ Welcome to **My Awesome Project**! 🚀 This script is just for fun, don't take 
 ---  
 
 
-## 🛠 Installation
 
-1. install package:
+1. Running:
    ```git clone https://github.com/REYHAN6610/SpamWhatsapp
    cd SpamWhatsapp
    yarn install
