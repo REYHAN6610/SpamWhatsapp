@@ -1,6 +1,6 @@
 # 📱 Spam Whatsapp No Banned
 
-Welcome to **My Awesome Project**! 🚀 Script ini hanya untuk main² saja jangan anggap serius oke,Script ini mengunakan Node Js Untuk menjalankan nya  
+Welcome to **My Awesome Project**! 🚀 This script is just for fun, don't take it seriously, okay? This script uses Node Js to run it.
 
 ---
 
